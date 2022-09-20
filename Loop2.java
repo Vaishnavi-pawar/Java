@@ -1,4 +1,4 @@
-class Loop3
+class Loop2
 {
     public static void main(String a[])
     {
