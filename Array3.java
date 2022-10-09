@@ -9,7 +9,7 @@ class Array3
         arr[1][0]= 60;
         arr[1][1]= 70;
         arr[1][2]= 80;
-	
+
 	for(int i=0;i<2;i++)
 	{
 	for(int j=0;j<3;i++)
